@@ -3,20 +3,24 @@ fronteditor.dev/nlw-unite
 
 *Hypertext*
 *Markup*
-*Tag*
-*Atributos*
+-Tag
+-Atributos
+
 *Language*
 
 # CSS
 
 *Cascading StyleSheet*
 
+'''
 /* declarações */
 body {
   background-color: #121214;
   color: #ffffff;
 }
+'''
 # JavaScript
+'''js
 // variaveis
 const mensagem = `Oi, tudo bem?`
 // tipos de dados
@@ -48,3 +52,4 @@ for(let participante of participantes) {
   // faça alguma coisa aqui
   // enquanto tiver participantes nessa lista
 }
+'''
